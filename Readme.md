@@ -98,8 +98,9 @@ Step 2: Install Required Libraries
 Step 3: Run the Python File
     python src/analysis.py
 
-            
-Project Structure
+         
+##Project Structure
+```text
     Superstore-Data-Analysis/
     │
     ├── data/
@@ -117,23 +118,21 @@ Project Structure
     ├── requirements.txt
     │
     └── README.md
+```
 
 Project Features
 ==================
-
-    •	Clean and organized code 
-    •	Data cleaning and preprocessing 
-    •	Exploratory Data Analysis 
-    •	Data visualization 
-    •	Insight generation
+    • Clean and organized code. 
+    • Data cleaning and preprocessing. 
+    • Exploratory Data Analysis. 
+    • Data visualization. 
+    • Insight generation.
 
 Learning Outcomes
 ==================
-
-Through this project, I learned:
-    •	How to work with real-world datasets 
-    •	Data cleaning techniques 
-    •	Data visualization methods 
-    •	How to analyze business-related data using Python 
-    •	How to generate meaningful insights from data 
+    • How to work with real-world datasets.
+    • Data cleaning techniques.  
+    • Data visualization methods. 
+    • How to analyze business-related data using Python.
+    • How to generate meaningful insights from data.
 
